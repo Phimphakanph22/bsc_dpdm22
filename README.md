@@ -1,4 +1,4 @@
-# bsc_dpdm22ุ
+# bsc_dpdm22
 วิชา SC663403 Data Preparation and Data Mining ของ พิมพกานต์ ภูพานทอง
 
 - Midterm    20%  
